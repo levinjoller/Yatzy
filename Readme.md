@@ -1,4 +1,4 @@
-# Tennis
+# Yatzy
 It consists mainly of a class that contains the methods for a yatzy game.\
 It was programmed using the TDD method.
 
